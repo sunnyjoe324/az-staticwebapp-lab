@@ -27,6 +27,14 @@
                 "reader",
                 "contributor"
             ]
+        },
+        {
+            "route": "/",
+            "serve": "/index.html",
+            "allowedRoles": [
+                "reader",
+                "contributor"
+            ]
         }
     ],
     "platformErrorOverrides": [
